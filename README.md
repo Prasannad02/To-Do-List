@@ -14,7 +14,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TG-Codes--To-do-list/
+    https://prasannad02.github.io/To-Do-List/
 ## Getting Started
 
 To explore or modify the code, follow these steps:
